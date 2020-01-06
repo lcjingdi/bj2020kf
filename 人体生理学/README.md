@@ -4,7 +4,7 @@
 
 > 讲师：刘晨喆
 
-![]([https://github.com/lcjingdi/bj2020kf/blob/master/%E4%BA%BA%E4%BD%93%E7%94%9F%E7%90%86%E5%AD%A6/%E8%AE%B2%E5%B8%88%E7%85%A7%E7%89%87.jpeg](https://github.com/lcjingdi/bj2020kf/blob/master/人体生理学/讲师照片.jpeg)
+![](https://github.com/lcjingdi/bj2020kf/blob/master/%E4%BA%BA%E4%BD%93%E7%94%9F%E7%90%86%E5%AD%A6/%E8%AE%B2%E5%B8%88%E7%85%A7%E7%89%87.jpeg)
 
 __刘晨喆__ ，女，1990年10月出生，祖籍河南新乡。讲师。
 
